@@ -17,6 +17,7 @@ Each notebook below covers a specific unit of the Python Basics curriculum:
 | 02 | Strings | Slicing, f-strings, and String Methods | [Open Notebook](./01-Basic-Concepts/02_strings_basics.ipynb) |
 | 03 | Math | Arithmetic, Modulus, and Assignments | [Open Notebook](./01-Basic-Concepts/03_numbers_and_math.ipynb) |
 | 04 | Logic | Comparisons, `if-elif-else`, and `and/or` | [Open Notebook](./01-Basic-Concepts/04_booleans_and_logic.ipynb) |
+| 05 | Functions | Parameters, Return values, and Scope | [Open Notebook](./01-Basic-Concepts/05_functions_and_scope.ipynb) |
 
 ## 🛠 Skills Learned
 - **Core Python:** Lists, Dictionaries, Tuples.
