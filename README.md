@@ -18,6 +18,7 @@ Each notebook below covers a specific unit of the Python Basics curriculum:
 | 03 | Math | Arithmetic, Modulus, and Assignments | [Open Notebook](./01-Basic-Concepts/03_numbers_and_math.ipynb) |
 | 04 | Logic | Comparisons, `if-elif-else`, and `and/or` | [Open Notebook](./01-Basic-Concepts/04_booleans_and_logic.ipynb) |
 | 05 | Functions | Parameters, Return values, and Scope | [Open Notebook](./01-Basic-Concepts/05_functions_and_scope.ipynb) |
+| 06 | Caesar Cipher | Building an encryption tool using string manipulation | [Open Notebook](./01-Basic-Concepts/06_caesar_cipher_project.ipynb) |
 
 ## 🛠 Skills Learned
 - **Core Python:** Lists, Dictionaries, Tuples.
