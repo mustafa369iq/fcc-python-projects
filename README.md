@@ -27,6 +27,8 @@ Each notebook below covers a specific unit of the Python Basics curriculum:
 | [05_functions_and_scope](./01-Basic-Concepts/05_functions_and_scope.ipynb) | Functions | Scope, Parameters & Returns | ✅ |
 | [06_caesar_cipher](./01-Basic-Concepts/06_caesar_cipher_project.ipynb) | **Project** | Encryption & Modulo `%` | ✅ |
 | [07_report_printer](./01-Basic-Concepts/07_report_card_printer.ipynb) | **Project** | f-strings & Text Alignment | ✅ |
+| [08_rpg_character](./01-Basic-Concepts/08_rpg_character_lab.ipynb) | **Lab** | Data Structures & Variables | 🔄 In Progress |
+| **Loops and Sequences** | **Next Module** | Iteration & Lists | ⏳ Next |
 
 ---
 
