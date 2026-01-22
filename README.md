@@ -1,35 +1,51 @@
-# 🐍 Scientific Computing with Python - FreeCodeCamp
+# 🐍 Python Learning Journey - FreeCodeCamp
 
-This repository contains my journey through the FreeCodeCamp Python Certification. It includes daily learning labs and 5 major certification projects.
+This repository documents my progress in the Python Scientific Computing Certification. I focus on writing clean code, documenting steps, and building practical projects.
 
-## 📂 Structure
-- **01-Basic-Concepts**: Fundamentals like data types, loops, and logic.
-- **02-Advanced-Topics**: OOP, functional programming, and libraries.
-- **03-Certification-Projects**: Final projects required for the certificate.
+---
+
+## 🛠️ Tools & Principles
+* **Environment:** Linux Mint & VS Code.
+* **Format:** Jupyter Notebooks (`.ipynb`) for interactive learning.
+* **Data Philosophy:** I believe in data continuity and efficient resource management.
+* **Automation:** Using `CopyQ` for efficient mouse-based workflow and less keyboard strain.
+
+---
 
 ## 📚 Detailed Curriculum & Navigation
 
 Each notebook below covers a specific unit of the Python Basics curriculum:
 
-| Unit # | Topic | Description | Link |
-| :--- | :--- | :--- | :--- |
-| 01 | Data Types | Variables, Strings, Integers, and `type()` | [Open Notebook](./01-Basic-Concepts/01_data_types.ipynb) |
-| 02 | Strings | Slicing, f-strings, and String Methods | [Open Notebook](./01-Basic-Concepts/02_strings_basics.ipynb) |
-| 03 | Math | Arithmetic, Modulus, and Assignments | [Open Notebook](./01-Basic-Concepts/03_numbers_and_math.ipynb) |
-| 04 | Logic | Comparisons, `if-elif-else`, and `and/or` | [Open Notebook](./01-Basic-Concepts/04_booleans_and_logic.ipynb) |
-| 05 | Functions | Parameters, Return values, and Scope | [Open Notebook](./01-Basic-Concepts/05_functions_and_scope.ipynb) |
-| 06 | Caesar Cipher | Building an encryption tool using string manipulation | [Open Notebook](./01-Basic-Concepts/06_caesar_cipher_project.ipynb) |
+### 📑 Python Basics Journey
 
-## 🛠 Skills Learned
-- **Core Python:** Lists, Dictionaries, Tuples.
-- **Logic:** Conditional branching and complex boolean logic.
-- **OOP:** Object-Oriented Programming (Coming Soon).
-- **Algorithms:** Algorithm Design and Problem Solving.
-
-## 🚀 How to use this repo
-1. Clone the repository.
-2. Open the `.ipynb` files in **VS Code**.
-3. Use the **Jupyter Extension** to run the cells.
+| Path | Topic | Key Concepts | Status |
+| :--- | :--- | :--- | :---: |
+| [01_data_types](./01-Basic-Concepts/01_data_types.ipynb) | Variables | Types, ID, and Memory | ✅ |
+| [02_strings_basics](./01-Basic-Concepts/02_strings_basics.ipynb) | Strings | Methods & Manipulation | ✅ |
+| [03_numbers_and_math](./01-Basic-Concepts/03_numbers_and_math.ipynb) | Math | Operators & Expressions | ✅ |
+| [04_booleans_and_logic](./01-Basic-Concepts/04_booleans_and_logic.ipynb) | Logic | Conditionals & Comparison | ✅ |
+| [05_functions_and_scope](./01-Basic-Concepts/05_functions_and_scope.ipynb) | Functions | Scope, Parameters & Returns | ✅ |
+| [06_caesar_cipher](./01-Basic-Concepts/06_caesar_cipher_project.ipynb) | **Project** | Encryption & Modulo `%` | ✅ |
+| [07_report_printer](./01-Basic-Concepts/07_report_card_printer.ipynb) | **Project** | f-strings & Text Alignment | ✅ |
 
 ---
-*Status: Learning in Progress... ⏳*
+
+## 🚀 Featured Projects
+
+### 🛡️ 1. Caesar Cipher Tool
+A security-focused project where I implemented a shift cipher. 
+* **Learned:** How to use the modulo operator `%` to ensure character rotation stays within the alphabet bounds.
+
+### 📊 2. Report Card Printer
+A formatting project to generate professional academic reports.
+* **Learned:** Advanced `f-string` techniques for perfect text alignment and table creation.
+
+---
+
+## 📈 Future Goals
+- [ ] Complete the "RPG Character" project.
+- [ ] Move to "Loops and Sequences" module.
+- [ ] Apply Python skills to data-driven currency concepts.
+
+---
+*Last updated: January 2026*   
